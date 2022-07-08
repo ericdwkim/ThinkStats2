@@ -14,3 +14,5 @@ df = nsfg.ReadFemPreg()
 
 pregordr = df.pregordr
 print(pregordr)
+print(pregordr[0])
+print(pregordr[2:5])
